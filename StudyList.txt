@@ -1,0 +1,9 @@
+leetcode
+tushar roy
+apache kafka - internal architecture
+casandra - intnal arch
+patrick mcfadin time series
+tim berglund distributed system
+how to do scaling - 
+binary tree
+https://github.com/shashank88/system_design
